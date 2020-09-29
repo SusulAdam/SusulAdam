@@ -10,7 +10,6 @@ I am a Front-End Developer.
 <br/>My involvement in the project is always on the highest level. I work based on the latest technologies. I care about good appearance of the application and its functionality. My applications are always refined in every possible way.
 
 <br/>
-<br/>
 
 :star:
 
