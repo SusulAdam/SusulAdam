@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://www.facebook.com/ashdazed"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_facebook-32.png" alt="facebook"></a>
   <a href="https://www.linkedin.com/in/adam-susu%C5%82/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_linkedin_linked_in-32.png" alt="linkedin"></a>
-  <a href="https://adamsusul.netlify.app/"><img src="https://cdn1.iconfinder.com/data/icons/social-80/32/Social_social_dribbble_dribble_dribbbble-32.png" alt="portfolio"></a>
 </p>
 </br>
 
