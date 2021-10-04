@@ -12,6 +12,4 @@
 <p align="center"> :star: </p>
 <p align="center"> :star: </p>
 <br/>
-<h3 align="center"> ### More information :information_desk_person: </h3>
-<p align="center"> If you want to know more about me, please visit my portfolio: </p>
-<p  align="center"><a href="https://adamsusul.netlify.app/"> Check my portfolio </a>:bowtie:</p>
+
